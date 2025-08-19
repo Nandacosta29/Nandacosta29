@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="150" height="150" style="border-radius: 50%;" alt="Fernanda Costa"/>
-</p>
+
 
 <h1 align="center">👩‍💻 Olá, eu sou a Fernanda Costa</h1>
 
