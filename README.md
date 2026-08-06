@@ -1,52 +1,67 @@
-
-
 <h1 align="center">👩‍💻 Olá, eu sou a Fernanda Costa</h1>
 
+<p align="center">
+  Desenvolvedora Back-End & Analista de Dados em formação. 
+  Apaixonada por transformar complexidade em soluções claras e inteligentes.
+  Mestranda em finanças, unindo a lógica de programação com a inteligência de mercado.
+</p>
 
-Sou apaixonada por tecnologia e estou em constante evolução, com foco no **Desenvolvimento Back-End**.  
-Gosto de resolver problemas, escrever com propósito e enfrentar desafios que me façam crescer como desenvolvedora. 🚀
+<p align="center">
+  <a href="https://www.linkedin.com/in/fernanda-costa-1b2a51259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fernandagautney@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 ---
 
 ## 🌟 Sobre mim
-- 🔭 Em busca de novos conhecimentos e evolução contínua na tecnologia.  
-- 🌱 Atualmente estudando **JavaScript, HTML e CSS** como base, além de lógica de programação, estruturas de dados e APIs.  
-- 😄 Pronomes: **ela/dela**  
-- 📫 E-mail para contato: **fernandagautney@gmail.com**  
+
+* **Quem sou:** Profissional em transição de carreira, focada em unir a lógica de programação (Back-End) com a profundidade da análise de dados.
+* **Formação:** Pós-graduanda em Finanças e Investimentos (FGV), o que guia meus projetos práticos.
+* **Stack atual:** **Python** (Automação, Pandas), **JavaScript** (Node.js), **HTML/CSS** e **Git/GitHub**.
+* **Objetivo:** Contribuir com times de engenharia de dados ou desenvolvimento, utilizando dados para resolver problemas reais.
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🛠️ Tecnologias e Ferramentas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandacosta29&show_icons=true&theme=radical" alt="Fernanda's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nandacosta29&layout=compact&theme=radical" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com?user=Nandacosta29&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
-
-## 🛠️ Tecnologias que uso
+*O que eu uso no meu dia a dia de desenvolvimento e análise:*
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=python" />
+  <!-- Pandas -->
+  <img src="https://skillicons.dev/icons?i=pandas" />
+  <!-- JavaScript -->
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <!-- NodeJS -->
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <!-- HTML -->
+  <img src="https://skillicons.dev/icons?i=html" />
+  <!-- CSS -->
+  <img src="https://skillicons.dev/icons?i=css" />
+  <!-- Git -->
+  <img src="https://skillicons.dev/icons?i=git" />
+  <!-- GitHub -->
+  <img src="https://skillicons.dev/icons?i=github" />
+  <!-- VS Code -->
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </div>
 
 ---
-
-## 🌐 Onde me encontrar
+## 📊 Métricas e Evolução
 
 <p align="center">
-  <a href="https://www.instagram.com/nanda.29costa/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/fernanda-costa-1b2a51259/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:fernandagautney@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://img.shields.io/badge/Foco_Principal-Back--End_%26_Dados-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repositórios_Ativos-1%20público-success?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Em_Evolução_Contínua-orange?style=for-the-badge&logo=rocket&logoColor=white" />
 </p>
 
+### 📈 Minhas Trilhas de Aprendizado Atuais
+
+* **Python & Análise de Dados:** Criação de scripts de automação, manipulação de arquivos CSV/Excel com Pandas e visualização de dados. *(Nível: Iniciante/Prático)*
+* **Desenvolvimento Back-End:** Fundamentos de lógica de programação, JavaScript, estruturas de dados e estudo de APIs. *(Nível: Em desenvolvimento)*
+* **Organização e Versionamento:** Controle de código-fonte utilizando Git e GitHub no dia a dia pelo terminal e VS Code. *(Nível: Praticando)*
